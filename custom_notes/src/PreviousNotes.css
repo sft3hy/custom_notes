@@ -1,0 +1,11 @@
+.DeleteNoteButton {
+    font-weight: bold;
+    position: right;
+}
+
+.YourNotes {
+    font-weight: bold;
+    text-align: center;
+    text-underline-position: below;
+    text-transform: capitalize;
+}
